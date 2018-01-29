@@ -1,2 +1,2 @@
 # event-extraction
-A fun trying in 
+A fun trying in event extraction
